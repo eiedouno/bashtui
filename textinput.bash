@@ -1,5 +1,6 @@
 create_tui_textinput() {
-
+    :
+    # TODO
 }
 
 if [[ "$_bashtui_source" != "true" ]]; then
